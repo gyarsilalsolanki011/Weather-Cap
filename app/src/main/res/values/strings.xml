@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Weather Cap</string>
+    <string name="weather">Weather Matters,\nWe\'ve Got the Details</string>
+    <string name="design_by">DESIGN BY\nGyarsilal Solanki</string>
+    <string name="degree">00:00°C</string>
+    <string name="today">Today</string>
+    <string name="time">00:00</string>
+    <string name="sunset">Sunset</string>
+    <string name="contentDescription">ImageView</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="windSpeed">0.00 m/s</string>
+    <string name="windSpeedText">Wind Speed</string>
+    <string name="sunny">Sunny</string>
+    <string name="maxTemp">Max : 00:00°C</string>
+    <string name="minTemp">Min : 00:00°C</string>
+    <string name="dayText">Tuesday</string>
+    <string name="dateText">25 January 2024</string>
+    <string name="condition">Condition</string>
+    <string name="pressure">0000 hPa</string>
+    <string name="seaText">Sea</string>
+    <string name="humidity">0.0%</string>
+    <string name="humidityText">Humidity</string>
+    <string name="cityNameText">jaipur</string>
 </resources>
